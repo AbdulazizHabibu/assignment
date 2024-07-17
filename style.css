@@ -40,7 +40,7 @@ section {
 
 .home {
     background: #f4f4f4;
-    padding-top: 128px; /* extra padding to compensate for fixed header */
+    padding-top: 128px; 
 }
 .about {
     background: #e2e2e2;
@@ -65,11 +65,3 @@ section {
     max-width: 30%;
     height: auto;
 }
-footer {
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 16px 0;
-    position: relative;
-    width: 100%;
-} 
